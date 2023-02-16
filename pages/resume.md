@@ -15,10 +15,10 @@ This is my own site to record the experience for my study and work.
 
  - Alice/Female/1995
  - Ph.D/Mechanical Engineering
- - Github：http://PEACE.github.io ( ``` 使用GitHub Host的Big较高 ```  )
- - Email：hepingxia24@gmail.com （```虽然我觉得QQ邮箱无所谓，不过有些技术人员比较反感，建议用G```）
- - Wechat：scan the QRCODE（```提供一个通过网络可以联系到你的方式```）
----
+ - Github：http://PEACE.github.io
+ - Email：hepingxia24@gmail.com
+ - Wechat：scan the QRCODE
+ ---
 
 # Research experience
 （工作经历按逆序排列，最新的在最前边，按公司做一级分组，公司内按二级分组）
