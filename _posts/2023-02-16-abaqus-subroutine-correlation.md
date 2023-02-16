@@ -1,15 +1,15 @@
 ---
 layout: post
-title: 关于仿真的学习
+title: abaqus子程序关联教程
 categories: Simulation
-description: 对自己优缺点的总结，常回顾以自我提升。
+description: abaqus在使用子程序之前，需要完成子程序关联
 keywords: 优点, 缺点
 ---
 
-# First of all
+## First of all
 
-# second
+## second
 
-# third
+## third
 
-# at last
+## at last
