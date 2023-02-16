@@ -7,12 +7,10 @@ comments: true
 menu: 关于
 permalink: /about/
 ---
-This is my own site to record the experience for my study and work.
+This is my own site to record the experience for my study and work. 
 
 ## 联系
 
 <ul> heping_xia@hotmail.com </ul>
 
-
-## Skill Keywords
 
