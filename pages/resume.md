@@ -9,4 +9,4 @@ permalink: /resume/
 ---
 This is my own site to record the experience for my study and work. 
 
-## 用四年的时间和经历制作一份让自己满意的简历
+### 用四年的时间和经历制作一份让自己满意的简历
