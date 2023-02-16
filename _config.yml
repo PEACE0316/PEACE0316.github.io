@@ -89,10 +89,6 @@ navs:
     label: 维基
 
   -
-    href: /links/
-    label: 链接
-
-  -
     href: /about/
     label: 关于
 
