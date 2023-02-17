@@ -5,6 +5,7 @@ categories: Simulation
 description: abaqus在使用子程序之前，需要完成子程序关联
 keywords: 二次开发，VS,IVF,子程序
 ---
+
    当我们想要使用子程序来自定义某些***ABAQUS***自身不能实现的功能时，除了需要了解和学习如果编写子程序之外，还有一个重要的环节，那就是将能够编译子程序的软件与abaqus关联，以下便是具体操作步骤，为了避免之后自己使用起来遗忘，特写于此（本教程适用于***ABAQUS 6.14***,其他版本待用上时再更新）
 
 ---
@@ -40,12 +41,30 @@ keywords: 二次开发，VS,IVF,子程序
 
 ---
 
-## 3. 安装IVF 2013后，关联三者（）
+## 3. 安装IVF 2013后，关联三者（VS与IVF在第二步已完成，现将abaqus与二者关联）
 
+- ### 找到两个后缀为 **.bat** 文件
+1. 在Abaqus的安装路径**xx\SIMULIA\Commands**下找到**文件1**  ***abq6141.bat***
+2. 在VS 2012的安装路径 **xx\VS2012\VC**下找到**文件2** ***vcvarsall.bat***
+3. 将两个路径添加到文件1 ***abq6141.bat*** 中：
 
+   * 路径[^1] ： @call "vcvarsall.bat的路径" X64
+   
+   * 路径[^2] : @call intel 64 visual studio 2012 mode的路径后半部分
 
-验证是否关联成功
+> 具体操作步骤如下
+> 
+## 4. 验证是否关联成功
 
 
 ## 注意事项
 
+[^1]: 路径获取步骤
+
+![image](https://user-images.githubusercontent.com/67852601/219655619-8e2ea9a4-ebd9-4fb3-a407-01a06173f00c.png)
+
+
+
+[^2]: 路径获取步骤
+
+![image](https://user-images.githubusercontent.com/67852601/219650709-690d58c8-a2ff-4a53-bc55-ca6ec043288e.png)
