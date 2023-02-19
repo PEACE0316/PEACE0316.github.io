@@ -1,6 +1,6 @@
 ---
 layout: post
-title: abaqus子程序关联教程
+title: ABAQUS子程序关联教程
 categories: Simulation
 description: abaqus在使用子程序之前，需要完成子程序关联
 keywords: 二次开发，VS,IVF,子程序
