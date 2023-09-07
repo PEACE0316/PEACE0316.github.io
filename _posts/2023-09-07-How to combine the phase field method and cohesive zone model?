@@ -6,4 +6,5 @@ description: describe the details and principle that the corresponding inp file 
 keywords: phase field method, cohesive zone model
 ---
 ### 1.实现的核心思想
+建立三层单元，单元数连续，但三层单元共节点，便于传递节点处的信息，并利用第三层的umat单元计算cohesive contact的作用，也就是说在界面处利用abaqus自带单元进行计算，其他部分与相场单元交互
 
