@@ -1,9 +1,9 @@
 ---
 layout: post
 title: How to combine the phase field method and cohesive zone model?
-categories: [cate1, cate2]
-description: some word here
-keywords: keyword1, keyword2
+categories: Simulation
+description: describe the details and principle that the corresponding inp file and for file modified
+keywords: phase field method, cohesive zone model
 ---
+### 1.实现的核心思想
 
-Content here
