@@ -14,7 +14,7 @@ keywords: python, inp
 此处省略
 
 ---
-'''
+```
 ###! /usr/bin/python
 ### -*- coding: UTF-8 -*-
 
@@ -73,4 +73,4 @@ with open('run.bat', 'w') as file1:
 ### 输出批处理文件的内容以进行验证
 with open('run.bat', 'r') as file1:
     print(file1.read())
-'''
+```
