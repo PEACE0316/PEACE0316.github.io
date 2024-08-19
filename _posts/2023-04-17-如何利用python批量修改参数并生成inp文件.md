@@ -15,34 +15,34 @@ keywords: python, inp
 
 ---
 '''
-#! /usr/bin/python
-# -*- coding: UTF-8 -*-
+###! /usr/bin/python
+### -*- coding: UTF-8 -*-
 
 #########################################
 ######### 正确可行的版本 ########
-# 使用python批量生成inp文件的.bat执行文件 #
+### 使用python批量生成inp文件的.bat执行文件 #
 #########################################
 
-# 导入相关的库
+### 导入相关的库
 import os
 import multiprocessing
 
-# 读取计算机的线程
+### 读取计算机的线程
 cpus = multiprocessing.cpu_count()
 print(cpus)
 
-# 目标路径
+### 目标路径
 dir1 = os.getcwd()
-# 得到路径内所有的文件
+### 得到路径内所有的文件
 names = os.listdir(dir1)
 print(names)
 
-# 建立存储相关文件名的矩阵
+### 建立存储相关文件名的矩阵
 inpFile = []
 forFile = []
 otherFile = []
 
-# 循环得到相应的文件名
+### 循环得到相应的文件名
 for name in names:
     if name.endswith('.inp'):
         inpFile.append(name)
@@ -54,7 +54,7 @@ for name in names:
 print(inpFile)
 print(forFile)
 
-# 创建批处理文件bat
+### 创建批处理文件bat
 with open('run.bat', 'w') as file1:
     def FunctionRun(cpu, job):
         jobName = job.split('.')[0]
@@ -70,7 +70,7 @@ with open('run.bat', 'w') as file1:
     file1.write('pause\n')
     print('Created runFile, I am the princess')
 
-# 输出批处理文件的内容以进行验证
+### 输出批处理文件的内容以进行验证
 with open('run.bat', 'r') as file1:
     print(file1.read())
 '''
