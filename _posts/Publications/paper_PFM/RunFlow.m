@@ -24,3 +24,6 @@ disp('>>> Bat files established')
 
 %% Last step
 !run.bat
+
+%% Post-processing
+!abaqus cae noGUI=sigma_epsilon_curves_general.py
