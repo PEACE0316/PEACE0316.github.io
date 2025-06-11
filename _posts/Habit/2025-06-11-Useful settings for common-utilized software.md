@@ -11,4 +11,4 @@ keywords: software, use habit
 - **如何在處理文件時使文件排列的一目瞭然?**
   1. 按文件類型排序
   2. 使用分組功能，按類型分組
-  ![Figure_1](./1.MatlabCurrentFolderSeetting.png)
+  ![Figure_1](_posts/Habit/1.MatlabCurrentFolderSetting.png)
