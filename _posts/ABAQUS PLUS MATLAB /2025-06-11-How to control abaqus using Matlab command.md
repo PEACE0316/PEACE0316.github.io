@@ -5,13 +5,12 @@ categories: Blog
 description: 使用matlab中command控制abaqus
 keywords: 文件列表可視化，方便nogui處理，同時也可使用matlab的語言功能
 ---
-- 這裏使用matlab控制abaqus和abaqus command使用是類似的原理，但abaqus command經常會有各種中斷的錯誤出現，matlab command不僅可以成功運行，同時也方便查看生成的文件，這將會是我接下來常用的處理方式
-- 具體參考來源是Dr.Michael的Youtube channel，如果有感興趣的，歡迎移步 https://www.youtube.com/@MichaelOkereke
+
 
 # How to Control ABAQUS Using MATLAB Command
 
-_A practical guide to automate ABAQUS simulations via MATLAB_
-
+- _這裏使用matlab控制abaqus和abaqus command使用是類似的原理，但abaqus command經常會有各種中斷的錯誤出現，matlab command不僅可以成功運行，同時也方便查看生成的文件，這將會是我接下來常用的處理方式_
+- _具體參考來源是Dr.Michael的Youtube channel，如果有感興趣的，歡迎移步 https://www.youtube.com/@MichaelOkereke_
 ---
 
 ## 1. Introduction
