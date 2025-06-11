@@ -1,7 +1,7 @@
 ---
 layout: post/ABAQUS PLUS MATLAB
 title: How to control abaqus using Matlab command
-categories: Blog
+categories: Simulation
 description: 使用matlab中command控制abaqus
 keywords: 文件列表可視化，方便nogui處理，同時也可使用matlab的語言功能
 ---
