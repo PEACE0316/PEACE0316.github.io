@@ -12,4 +12,11 @@ keywords: software, use habit
   1. 按文件類型排序
   2. 使用分組功能，按類型分組
   ![Figure_1](1.MatlabCurrentFolderSetting.png)
+## 2. Polacode制作代码截图
+- **如何优雅的将各种代码截图到ppt或其他展示平台中？
+  1. 打开vscode
+  2. 安装Polacode插件
+  3. 在search栏中输入 >Polacode
+  4. 弹出相应的界面，然后将想要的code复制，粘贴到这个界面
+
 
