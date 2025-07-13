@@ -142,7 +142,6 @@ keywords: software, use habit
         "%LINE%",
         "%PDF%"
       ]
-
 ```
 2. 保存并关闭vscode后重新打开，此时左侧tex部分有各种compiler的命令，选择相应的运行即可
 3. 生成的pdf可直接用于各种报告攥写
