@@ -63,3 +63,4 @@ disp('>>> readODBandPlot script read and executed')
 %% Open ABAQUS viewer to see results
 !abaqus viewer database=Job_1.odb
 disp('>>> ABAQUS viewer loaded for visualizing results')
+```
