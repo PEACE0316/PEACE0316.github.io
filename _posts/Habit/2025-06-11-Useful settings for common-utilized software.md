@@ -21,7 +21,7 @@ keywords: software, use habit
 ## 3. 在vscode中运行latex,textlive
 - **如何利用vscode环境运行tex文件，同时便于使用AI工具？
   1. 在vscode中改写setting, 设置模板如下：
-    '''
+```
     {
       {
       "latex-workshop.latex.tools": [
@@ -142,5 +142,5 @@ keywords: software, use habit
         "%LINE%",
         "%PDF%"
       ]
-    '''
+    ```
 
