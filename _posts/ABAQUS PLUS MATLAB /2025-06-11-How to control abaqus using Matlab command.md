@@ -1,5 +1,5 @@
 ---
-layout: post/ABAQUS PLUS MATLAB
+layout: post
 title: How to control abaqus using Matlab command
 categories: Simulation
 description: 使用matlab中command控制abaqus
