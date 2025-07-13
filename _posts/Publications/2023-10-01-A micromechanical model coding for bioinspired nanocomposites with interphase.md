@@ -14,7 +14,7 @@ keywords: interphase，matlab
 
 ## 3. Matlab coding
 ### 3.1 calculate effective modulus with interphase
-```matlab
+```
 clc, clear
 % 固定參數
 [Em, Ep, hp, rho, delta_L, m] = deal(1, 400, 1, 12.4/4.8, 3/3.1, 0.5/400);
@@ -55,3 +55,4 @@ Ec_inv = 2*(1-delta_L)/avg_EI + (2*delta_L-1)/avg_EII + ...
          ((2*delta_L-1)*tanh(beta1/2)/beta1 + (1-delta_L)/(beta2*tanh(beta2)));
 
 Ec = Ec_inv^(-1);
+```
