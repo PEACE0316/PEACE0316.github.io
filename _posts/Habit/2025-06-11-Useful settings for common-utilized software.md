@@ -18,5 +18,8 @@ keywords: software, use habit
   2. 安装Polacode插件
   3. 在search栏中输入 >Polacode
   4. 弹出相应的界面，然后将想要的code复制，粘贴到这个界面
-
+## 3. 在vscode中运行latex,textlive
+- **如何利用vscode环境运行tex文件，同时便于使用AI工具？
+  1. 在vscode中改写setting, 设置模板如下：
+     "
 
