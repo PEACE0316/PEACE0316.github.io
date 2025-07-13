@@ -1,5 +1,5 @@
 ---
-layout: post/Publications
+layout: post
 title: A micromechanical model coding for bioinspired nanocomposites with interphase
 categories: Publication
 description: 將發表的文章中使用的coding封裝和記錄下來以便使用和查找
