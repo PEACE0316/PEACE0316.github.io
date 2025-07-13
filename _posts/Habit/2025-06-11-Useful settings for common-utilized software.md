@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Useful settings for common-utilized software
 categories: Simulation
 description: collect and record some useful skills or habits to improve work efficiency
