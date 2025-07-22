@@ -147,4 +147,8 @@ keywords: software, use habit
 ```
 2. 保存并关闭vscode后重新打开，此时左侧tex部分有各种compiler的命令，选择相应的运行即可
 3. 生成的pdf可直接用于各种报告攥写
-## 4.  
+## 4. 文献阅读神器 Zotero7（开源）
+1. 可直接网页抓取文献
+2. 便于管理和同步
+3. 多个开源免费插件可使用，编辑注释翻译笔记一体化
+相关教程：【Zotero7保姆级教程｜科研党/研究生必备文献管理终极指南】 https://www.bilibili.com/video/BV136dUYKEYU/?p=9&share_source=copy_web&vd_source=6f7f8bb958899406c54f33060511c679
