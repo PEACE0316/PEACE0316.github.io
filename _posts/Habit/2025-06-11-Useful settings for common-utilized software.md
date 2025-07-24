@@ -152,3 +152,7 @@ keywords: software, use habit
 2. 便于管理和同步
 3. 多个开源免费插件可使用，编辑注释翻译笔记一体化
 相关教程：【Zotero7保姆级教程｜科研党/研究生必备文献管理终极指南】 https://www.bilibili.com/video/BV136dUYKEYU/?p=9&share_source=copy_web&vd_source=6f7f8bb958899406c54f33060511c679
+## 5. 在abaqus中一键调试指定py文件
+1. 避免反复加载或粘贴带来的不必要的麻烦
+2. 可以和matlab联动，提升调试效率
+   插件来源：欢迎下载：POLARIS_PythonTest【代码调试插件】，链接：https://pan.baidu.com/s/1nx5XZzAhwVWs2UBbanRlGg 提取码：PTST，请参照安装说明进行安装
